@@ -1,0 +1,167 @@
+h1{
+   text-align: center;
+}
+
+div#StatesColumnA{
+    float: left;
+    padding-right: 100px;
+}
+
+div#StatesColumnC{
+    float: right;
+    padding-left: 100px;
+}
+
+div#StatesColumnB{
+    padding-left: 500px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+#ListStyleExamples{
+    text-align: center;
+}
+
+.lowerAlphaList {
+    list-style-type: lower-alpha;
+}
+
+.discList {
+    list-style-type: disc;
+}
+
+.squareList {
+    list-style-type: square;
+}
+
+.cjkideographicList {
+    list-style-type: cjk-ideographic;
+}
+
+.armenianList {
+    list-style-type: armenian;
+}
+
+.georgianList {
+    list-style-type: georgian;
+}
+
+.hebrewList {
+    list-style-type: hebrew;
+}
+
+.hiraganalist {
+    list-style-type: hiragana;
+}
+
+.hiraganairohaList {
+    list-style-type: hiragana-iroha;
+}
+
+.circleList {
+    list-style-type: circle;
+}
+
+.lowerGreekList {
+    list-style-type: lower-greek;
+}
+
+.upperRomanList {
+    list-style-type: upper-roman;
+}
+
+.lowerRomanList {
+    list-style-type: lower-roman;
+}
+
+.upperAlphaList {
+    list-style-type: upper-alpha;
+}
+
+.decimalLeadingZeroList {
+    list-style-type: decimal-leading-zero;
+}
+
+nav {
+  margin: 50px;
+}
+ 
+.navigation ul {
+  overflow: auto;
+  list-style-type: none;
+  text-align: center;
+}
+ 
+.navigation li {
+  height: 25px;
+  float: left;
+  margin-right: 0px;
+  border-right: 1px solid #aaa;
+  padding: 0 20px;
+}
+ 
+.navigation li:last-child {
+  border-right: none;
+}
+ 
+.navigation li a {
+  text-decoration: none;
+  color: #ccc;
+  font: 25px/1 Helvetica, Verdana, sans-serif;
+  text-transform: uppercase;
+ 
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+ 
+.navigation li a:hover {
+  color: #666;
+}
+ 
+.navigation li.active a {
+  font-weight: bold;
+  color: #333;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.leftPic{
+    float: left;
+}
+
+.rightPic{
+    float: right;
+}
+
+.ImageParagraph{
+    text-align: justify;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+.odd{
+    background-color: #C4D5FF
+}
+
+.header{
+    background-color: #6385FF
+}
+
+.winScore{
+    font-weight: bold;
+    font-size: larger;
+    font-family: futura;
+}
+
+.heading{
+    text-align: center;
+    font-size: larger;
+}
